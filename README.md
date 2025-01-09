@@ -1,5 +1,4 @@
-# Hiii!, Welcome to my profile✨
-# I'm Nsoke Chiugo Imelda👩🏽‍💻
+# Hiii✨, I'm Nsoke Chiugo Imelda👩🏽‍💻
 
 ## A Little About Me  
 ✨ I’m a budding **data scientist** diving into the fascinating world of **data and AI**. While I’m still building my expertise, I’m passionate about solving problems, learning new tools, and creating systems that bring data to life.  
