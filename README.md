@@ -1,4 +1,4 @@
-# Hiii✨, I'm Nsoke Chiugo Imelda👩🏽‍💻
+# Hiii✨, Welcome to my Profile👩🏽‍💻
 
 ## A Little About Me  
 ✨ I’m a budding **data scientist** diving into the fascinating world of **data and AI**. While I’m still building my expertise, I’m passionate about solving problems, learning new tools, and creating systems that bring data to life.  
@@ -13,10 +13,10 @@
 - Building my confidence and expertise through consistent learning and practical experience.  
 
 ## My Next Goal  
-🎓 Master the art of deploying data-driven solutions that are both impactful and easy to use.  
+🎓 To master the art of deploying data-driven solutions that are both impactful and easy to use.  
 
 ## How to reach me
-📧 **Email:** nsokeimelda@gmail.com
+✉️ **Email:** nsokeimelda@gmail.com
 
 Feel free to reach out if you’d like to discuss projects, share ideas, or just talk tech. I’m always happy to connect and learn from others!💫
 
