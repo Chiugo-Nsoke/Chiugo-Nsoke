@@ -4,6 +4,13 @@
 ## About Me  
 💡 I’m an aspiring **data scientist** passionate about turning data into impactful insights. I’m on a mission to learn, grow, and contribute to the world of **data analysis** and **machine learning**.  
 
+## Skills
+
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: Python, R
+- Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
+- Tools: Jupyter Notebook, Visual Studio Code
 
 ## 🔭 I’m currently working on
 - Beginner-friendly **data science projects** focused on **data cleaning**, **exploratory data analysis (EDA)**, and **visual storytelling**.  
@@ -11,7 +18,6 @@
 - Developing my portfolio by solving real-world problems with **Python** and **R**.  
 
 ## 🌱 I’m currently learning 
-- **Natural language processing (NLP)** for text analysis.  
 - Best practices in **data preprocessing** and **model deployment**.  
 - Advanced techniques in **data visualization** with tools like **Tableau** and **Power BI**.  
 
