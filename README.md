@@ -30,12 +30,6 @@ Here are some of the technologies and tools I work with:
 - Best practices for **model optimization** and **deployment**.  
 - Understanding how to scale **machine learning projects** for larger datasets.  
 
-## 💬 Ask me about
-- My journey in **data science** and what I’ve learned so far.  
-- How I use **Python libraries** like **Pandas**, **NumPy**, and **Matplotlib** to analyze data.  
-- Tips for beginners diving into **machine learning**.  
-
-
 ## How to reach me
 ✉️ **Email:** nsokeimelda@gmail.com
 
