@@ -10,7 +10,7 @@ Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, R
 - Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch
-- Tools: Jupyter Notebook, Visual Studio Code
+- Tools: Jupyter Notebook
 
 ## 🔭 I’m currently working on
 - Beginner-friendly **data science projects** focused on **data cleaning**, **exploratory data analysis (EDA)**, and **visual storytelling**.  
@@ -33,7 +33,7 @@ Here are some of the technologies and tools I work with:
 ## How to reach me
 ✉️ **Email:** nsokeimelda@gmail.com
 
-Feel free to reach out if you’d like to discuss projects, share ideas, or just talk tech. I’m always happy to connect and learn from others!💫
+Feel free to reach out if you’d like to discuss projects, share ideas, or just talk tech. I’m always happy to connect and learn from others!
 
 <!--
 **Chiugo-Nsoke/Chiugo-Nsoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
