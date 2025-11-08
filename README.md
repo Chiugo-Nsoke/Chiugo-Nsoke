@@ -2,7 +2,7 @@
 
 
 ## About Me  
-💡 I’m an aspiring **data scientist** passionate about turning data into impactful insights. I’m on a mission to learn, grow, and contribute to the world of **data analysis** and **machine learning**.  
+💡 I’m a **data scientist** passionate about turning data into impactful insights. I’m on a mission to learn, grow, and contribute to the world of **data analysis** and **machine learning**.  
 
 ## Skills
 
@@ -25,10 +25,6 @@ Here are some of the technologies and tools I work with:
 - **Open-source projects** in **data science** and **machine learning**.  
 - Beginner-focused tutorials or projects to help others learn.  
 - Ideas that turn **raw data** into meaningful solutions.  
-
-## 🤔 I’m looking for help with
-- Best practices for **model optimization** and **deployment**.  
-- Understanding how to scale **machine learning projects** for larger datasets.  
 
 ## How to reach me
 ✉️ **Email:** nsokeimelda@gmail.com
